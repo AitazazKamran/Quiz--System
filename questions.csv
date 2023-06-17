@@ -1,0 +1,198 @@
+2,Programming Fundamentals,A loop can be used to execute a set of instructions repeatedly.,T,
+2,Programming Fundamentals,A for loop is similar to a while loop but with a different syntax.,T,
+2,Programming Fundamentals,In programming a variable can hold only one value at a time.,F,
+2,Object Oriented Programming,Inheritance is a mechanism that allows a class to inherit properties and methods from another class.,T,
+2,Object Oriented Programming,Encapsulation is a technique of making the fields in a class private and providing access to the fields via public methods.,T,
+2,Object Oriented Programming,A polymorphic method is one that can take on different forms depending on the parameters passed to it.,T,
+2,Introduction To Computing,An operating system is a type of software that helps manage computer hardware resources.,T,
+2,Introduction To Computing,A compiler is a type of software that translates human-readable code into machine-readable code.,T,
+2,Introduction To Computing,A database is a collection of files that can be accessed randomly.,F,
+2,Data Structures,A stack is a data structure that operates on a first-in first-out (FIFO) basis.,F,
+2,Data Structures,A queue is a data structure that operates on a first-in first-out (FIFO) basis.,T,
+2,Data Structures,A linked list is a data structure that consists of a group of nodes each containing a reference to the next node in the sequence.,T,
+2,Analysis of Algorithms,The Big-O notation is used to describe the upper bound of the time complexity of an algorithm.,T,
+2,Analysis of Algorithms,A sorting algorithm is a method of arranging data in a particular order.,T,
+2,Analysis of Algorithms,A linear search algorithm is more efficient than a binary search algorithm.,F,
+2,Software Requirements Engineering,A use case is a description of a specific use of the system by an actor.,T,
+2,Software Requirements Engineering,A requirement specification is a document that describes the features and functions that a software system must provide.,T,
+2,Software Requirements Engineering,A traceability matrix is a document that traces the relationship between requirements and other system elements.,T,
+2,Research Methodology,A research hypothesis is a statement that describes the relationship between two or more variables.,T,
+2,Research Methodology,A literature review is a process of collecting and analyzing the existing literature on a particular research topic.,T,
+2,Research Methodology,Qualitative research is a type of research that involves collecting numerical data.,F,
+2,Big Data Analytics,Big data is typically characterized by the 4 V's: volume velocity variety and veracity.,T,
+2,Big Data Analytics,Data mining is a process of discovering patterns in large datasets.,T,
+2,Big Data Analytics,A data warehouse is a type of database that is optimized for storing and retrieving large amounts of data.,T,
+2,Artificial Intelligence,Artificial intelligence is a field of computer science that focuses on creating machines that can perform tasks that typically require human intelligence.,T,
+2,Artificial Intelligence,A neural network is a type of machine learning algorithm that is inspired by the structure and function of the human brain.,T,
+2,Artificial Intelligence,Natural language processing is a type of artificial intelligence that involves analyzing and generating human language.,T,
+2,Deep Learning,Deep learning is a type of machine learning that uses artificial neural networks to model and solve complex problems.,T,
+2,Deep Learning,A convolutional neural network (CNN) is a type of neural network that is commonly used in image processing and computer vision applications.,T,
+2,Deep Learning,Recurrent neural networks (RNNs) are a type of neural network that can handle sequential data.,T,
+3,Programming Fundamentals,What is a loop in programming?,,
+3,Programming Fundamentals,What is the difference between a while loop and a for loop?,(Answer),
+3,Programming Fundamentals,What is a variable and how is it used in programming?,(Answer),
+3,Programming Fundamentals,What is the purpose of comments in code?,(Answer),
+3,Object Oriented Programming,What is inheritance in object-oriented programming?,(Answer),
+3,Object Oriented Programming,What is encapsulation and how does it relate to object-oriented programming?,(Answer),
+3,Object Oriented Programming,What is polymorphism and how is it used in object-oriented programming?,(Answer),
+3,Object Oriented Programming,What is an abstract class and how is it different from an interface?,(Answer),
+3,Introduction To Computing,What is a computer and what are its basic components?,(Answer),
+3,Introduction To Computing,What is an operating system and what does it do?,(Answer),
+3,Introduction To Computing,What is a programming language and how is it used?,(Answer),
+3,Introduction To Computing,What is a database and what are its basic components?,(Answer),
+3,Data Structures,What is a stack and how is it used in computer science?,(Answer),
+3,Data Structures,What is a queue and how is it used in computer science?,(Answer),
+3,Data Structures,What is a linked list and how is it used in computer science?,(Answer),
+3,Data Structures,What is a tree and how is it used in computer science?,(Answer),
+3,Analysis of Algorithms,What is the Big-O notation and how is it used to analyze algorithms?,(Answer),
+3,Analysis of Algorithms,What is a sorting algorithm and how is it used to sort data?,(Answer),
+3,Analysis of Algorithms,What is a searching algorithm and how is it used to search data?,(Answer),
+3,Analysis of Algorithms,What is a recursive function and how is it used in algorithms?,(Answer),
+3,Software Requirements Engineering,What is software requirements engineering and why is it important?,(Answer),
+3,Software Requirements Engineering,What is a use case and how is it used in software requirements engineering?,(Answer),
+3,Software Requirements Engineering,What is a requirement specification and how is it used in software requirements engineering?,(Answer),
+3,Software Requirements Engineering,What is a traceability matrix and how is it used in software requirements engineering?,(Answer),
+3,Research Methodology,What is the scientific method and how is it used in research?,(Answer),
+3,Research Methodology,What is a literature review and how is it used in research?,(Answer),
+3,Research Methodology,What is a research hypothesis and how is it formulated?,(Answer),
+3,Research Methodology,What is the difference between qualitative and quantitative research?,(Answer),
+3,Big Data Analytics,What is big data and how is it different from traditional data?,(Answer),
+3,Big Data Analytics,What is data mining and how is it used in big data analytics?,(Answer),
+3,Big Data Analytics,What is a data warehouse and how is it used in big data analytics?,(Answer),
+3,Big Data Analytics,What is machine learning and how is it used in big data analytics?,(Answer),
+3,Artificial Intelligence,What is artificial intelligence and how is it used in computer science?,(Answer),
+3,Artificial Intelligence,What is a neural network and how is it used in artificial intelligence?,(Answer),
+3,Artificial Intelligence,What is natural language processing and how is it used in artificial intelligence?,(Answer),
+3,Artificial Intelligence,What is a genetic algorithm and how is it used in artificial intelligence?,(Answer),
+1,Programming Fundamentals,What is a variable in programming?,A. A sequence of characters B. A data structure that stores multiple values C. A name that represents a value or data,C
+1,Programming Fundamentals,What is the purpose of a conditional statement?,A. To repeat a block of code B. To test a condition and execute code based on the result C. To store a set of values,B
+1,Programming Fundamentals,What is a function in programming?,A. A group of variables B. A data structure that stores multiple values C. A block of code that performs a specific task and returns a result,C
+1,Object Oriented Programming,What is inheritance in object-oriented programming?,A. A mechanism to access private data members B. A mechanism to restrict access to data members C. A mechanism to define a new class based on an existing class D. A mechanism to define a new data type,C
+1,Object Oriented Programming,What is polymorphism in object-oriented programming?,A. The ability of an object to take on many forms B. The ability of an object to access private data members C. The ability of an object to restrict access to data members D. The ability of an object to define a new class,A
+1,Object Oriented Programming,What is encapsulation in object-oriented programming?,A. A mechanism to define a new class based on an existing class B. A mechanism to access private data members C. A mechanism to restrict access to data members D. A mechanism to hide implementation details and expose only necessary information,D
+1,Introduction To Computing,What is a computer program?,A. A set of instructions that tell a computer what to do B. A hardware device that processes information C. A software tool used for debugging D. A device used for inputting data,A
+1,Introduction To Computing,What is a computer virus?,A. A hardware device that processes information B. A software program that replicates itself and infects a computer C. A software tool used for debugging D. A device used for inputting data,B
+1,Introduction To Computing,What is an algorithm?,A. A sequence of characters B. A set of instructions that describe how to solve a problem C. A data structure that stores multiple values D. A block of code that performs a specific task and returns a result,B
+1,Data Structures,What is a linked list?,A. A data structure that stores elements in an array B. A data structure that allows for efficient searching and sorting C. A data structure that consists of nodes linked together D. A data structure that is used for sorting and searching,C
+1,Data Structures,What is a stack?,A. A data structure that stores elements in an array B. A data structure that allows for efficient searching and sorting C. A data structure that consists of nodes linked together D. A data structure that follows the last-in first-out (LIFO) principle,D
+1,Data Structures,What is a queue?,A. A data structure that stores elements in an array B. A data structure that allows for efficient searching and sorting C. A data structure that consists of nodes linked together D. A data structure that follows the first-in first-out (FIFO) principle,D
+1,Analysis of Algorithms,What is the time complexity of binary search algorithm?,A. O(n) B. O(nlogn) C. O(logn) D. O(n^2),C
+1,Analysis of Algorithms,What is the time complexity of bubble sort algorithm?,A. O(n) B. O(nlogn) C. O(logn) D. O(n^2),D
+1,Analysis of Algorithms,What is the time complexity of quick sort algorithm?,A. O(n) B. O(nlogn) C. O(logn) D. O(n^2),B
+1,Software Requirements Engineering,What is requirement elicitation?,A. The process of developing a detailed description of the system to be developed B. The process of identifying stakeholders and their needs C. The process of validating that a system meets its requirements D. The process of managing changes to a system's requirements,B
+1,Software Requirements Engineering,What is a functional requirement?,A. A requirement that specifies how a system should behave in response to specific inputs or events B. A requirement that specifies the overall characteristics of a system such as performance or security C. A requirement that specifies how a system should be designed or implemented D. A requirement that specifies the structure of a system's data,B
+1,Software Requirements Engineering,What is a non-functional requirement?,A. A requirement that specifies how a system should behave in response to specific inputs or events B. A requirement that specifies the overall characteristics of a system such as performance or security C. A requirement that specifies how a system should be designed or implemented D. A requirement that specifies the structure of a system's data,A
+1,Research Methodology,What is a research hypothesis?,A. A statement about the relationship between variables B. A statement about the direction of a relationship between variables C. A statement about the significance of a relationship between variables D. A statement about the strength of a relationship between variables,A
+1,Research Methodology,What is a research question?,A. A question that seeks to test a specific hypothesis B. A question that seeks to explore a topic or issue C. A question that seeks to identify the cause of a specific phenomenon D. A question that seeks to describe a specific phenomenon,B
+1,Research Methodology,What is a sample in research?,A. A subset of the population that is studied in order to make inferences about the population as a whole B. A subset of the data that is used to train a machine learning model C. A subset of the independent variables that are included in a regression model D. A subset of the dependent variables that are used to evaluate a model,A
+1,Big Data Analytics,What is Hadoop?,A. A programming language for big data analytics B. A distributed file system for big data storage C. A database management system for big data D. A data visualization tool for big data,A
+1,Big Data Analytics,What is MapReduce?,A. A programming model for processing large data sets with a parallel distributed algorithm B. A file format for storing big data C. A database management system for big data D. A data visualization tool for big data,A
+1,Big Data Analytics,What is Spark?,A. A distributed computing system for big data processing B. A distributed file system for big data storage C. A database management system for big data D. A data visualization tool for big data,A
+1,Artificial Intelligence,What is a neural network?,A. A machine learning model that is trained on labeled data B. A machine learning model that is trained on unlabeled data C. A set of algorithms inspired by the structure and function of the human brain D. A set of algorithms that can reason about and solve problems in complex domains,C
+1,Artificial Intelligence,What is reinforcement learning?,A. A type of supervised learning where the training data includes both inputs and outputs B. A type of unsupervised learning where the training data consists of inputs only C. A type of learning where an agent interacts with an environment and receives rewards or punishments based on its actions D. A type of learning where an agent learns to generate new examples of a given type of data,C
+1,Artificial Intelligence,What is natural language processing?,A. A subfield of AI that focuses on developing algorithms that can reason about and solve problems in complex domains B. A subfield of AI that focuses on developing systems that can interact with humans in a natural way C. A subfield of AI that focuses on developing systems that can learn from and make predictions on data D. A subfield of AI that focuses on developing systems that can reason about uncertain or incomplete information,B
+1,Deep Learning,What is a convolutional neural network?,A. A type of neural network that is trained using backpropagation B. A type of neural network that is used for unsupervised learning C. A type of neural network that is designed for image recognition and classification D. A type of neural network that is used for text analysis and natural language processing,C
+1,Deep Learning,What is transfer learning?,A. A technique where a model trained on one task is reused as a starting point for a model on a different task B. A technique where a model is trained to generate new examples of a given type of data C. A technique where a model is trained to predict the probability of an event D. A technique where a model is trained to identify patterns and structure in data,A
+1,Deep Learning,What is backpropagation?,A. A technique for optimizing the weights of a neural network by propagating error signals backwards through the network B. A technique for selecting the most relevant features in a dataset C. A technique for combining the predictions of multiple models D. A technique for evaluating the performance of a model on a dataset,A
+1,Digital Image Processing,What is image segmentation?,A. The process of reducing the amount of data in an image by removing redundant information B. The process of identifying the boundaries between different objects in an image C. The process of compressing an image to reduce its size D. The process of enhancing the contrast and brightness of an image,B
+1,Digital Image Processing,What is edge detection?,A. The process of identifying the boundaries between different objects in an image B. The process of reducing the amount of data in an image by removing redundant information C. The process of compressing an image to reduce its size D. The process of enhancing the contrast and brightness of an image,A
+1,Digital Image Processing,What is image registration?,A. The process of aligning two or more images of the same scene taken from different perspectives B. The process of identifying the boundaries between different objects in an image C. The process of compressing an image to reduce its size D. The process of enhancing the contrast and brightness of an image,A
+2,Programming Fundamentals,DEMO,T,
+2,Programming Fundamentals,DEMO,T,
+2,Programming Fundamentals,DEMO,F,
+2,Object Oriented Programming,DEMO,T,
+2,Object Oriented Programming,DEMO,T,
+2,Object Oriented Programming,DEMO,T,
+2,Introduction To Computing,DEMO,T,
+2,Introduction To Computing,DEMO,T,
+2,Introduction To Computing,DEMO,F,
+2,Data Structures,DEMO,F,
+2,Data Structures,DEMO,T,
+2,Data Structures,DEMO,T,
+2,Analysis of Algorithms,DEMO,T,
+2,Analysis of Algorithms,DEMO,T,
+2,Analysis of Algorithms,DEMO,F,
+2,Software Requirements Engineering,DEMO,T,
+2,Software Requirements Engineering,DEMO,T,
+2,Software Requirements Engineering,DEMO,T,
+2,Research Methodology,DEMO,T,
+2,Research Methodology,DEMO,T,
+2,Research Methodology,DEMO,F,
+2,Big Data Analytics,DEMO,T,
+2,Big Data Analytics,DEMO,T,
+2,Big Data Analytics,DEMO,T,
+2,Artificial Intelligence,DEMO,T,
+2,Artificial Intelligence,DEMO,T,
+2,Artificial Intelligence,DEMO,T,
+2,Deep Learning,DEMO,T,
+2,Deep Learning,DEMO,T,
+2,Deep Learning,DEMO,T,
+3,Programming Fundamentals,DEMO,,
+3,Programming Fundamentals,DEMO,(Answer),
+3,Programming Fundamentals,DEMO,(Answer),
+3,Programming Fundamentals,DEMO,(Answer),
+3,Object Oriented Programming,DEMO,(Answer),
+3,Object Oriented Programming,DEMO,(Answer),
+3,Object Oriented Programming,DEMO,(Answer),
+3,Object Oriented Programming,DEMO,(Answer),
+3,Introduction To Computing,DEMO,(Answer),
+3,Introduction To Computing,DEMO,(Answer),
+3,Introduction To Computing,DEMO,(Answer),
+3,Introduction To Computing,DEMO,(Answer),
+3,Data Structures,DEMO,(Answer),
+3,Data Structures,DEMO,(Answer),
+3,Data Structures,DEMO,(Answer),
+3,Data Structures,DEMO,(Answer),
+3,Analysis of Algorithms,DEMO,(Answer),
+3,Analysis of Algorithms,DEMO,(Answer),
+3,Analysis of Algorithms,DEMO,(Answer),
+3,Analysis of Algorithms,DEMO,(Answer),
+3,Software Requirements Engineering,DEMO,(Answer),
+3,Software Requirements Engineering,DEMO,(Answer),
+3,Software Requirements Engineering,DEMO,(Answer),
+3,Software Requirements Engineering,DEMO,(Answer),
+3,Research Methodology,DEMO,(Answer),
+3,Research Methodology,DEMO,(Answer),
+3,Research Methodology,DEMO,(Answer),
+3,Research Methodology,DEMO,(Answer),
+3,Big Data Analytics,DEMO,(Answer),
+3,Big Data Analytics,DEMO,(Answer),
+3,Big Data Analytics,DEMO,(Answer),
+3,Big Data Analytics,DEMO,(Answer),
+3,Artificial Intelligence,DEMO,(Answer),
+3,Artificial Intelligence,DEMO,(Answer),
+3,Artificial Intelligence,DEMO,(Answer),
+3,Artificial Intelligence,DEMO,(Answer),
+1,Programming Fundamentals,DEMO,A. A sequence of characters B. A data structure that stores multiple values C. A name that represents a value or data,C
+1,Programming Fundamentals,DEMO,A. To repeat a block of code B. To test a condition and execute code based on the result C. To store a set of values,B
+1,Programming Fundamentals,DEMO,A. A group of variables B. A data structure that stores multiple values C. A block of code that performs a specific task and returns a result,C
+1,Object Oriented Programming,DEMO,A. A mechanism to access private data members B. A mechanism to restrict access to data members C. A mechanism to define a new class based on an existing class D. A mechanism to define a new data type,C
+1,Object Oriented Programming,DEMO,A. The ability of an object to take on many forms B. The ability of an object to access private data members C. The ability of an object to restrict access to data members D. The ability of an object to define a new class,A
+1,Object Oriented Programming,DEMO,A. A mechanism to define a new class based on an existing class B. A mechanism to access private data members C. A mechanism to restrict access to data members D. A mechanism to hide implementation details and expose only necessary information,D
+1,Introduction To Computing,DEMO,A. A set of instructions that tell a computer what to do B. A hardware device that processes information C. A software tool used for debugging D. A device used for inputting data,A
+1,Introduction To Computing,DEMO,A. A hardware device that processes information B. A software program that replicates itself and infects a computer C. A software tool used for debugging D. A device used for inputting data,B
+1,Introduction To Computing,DEMO,A. A sequence of characters B. A set of instructions that describe how to solve a problem C. A data structure that stores multiple values D. A block of code that performs a specific task and returns a result,B
+1,Data Structures,DEMO,A. A data structure that stores elements in an array B. A data structure that allows for efficient searching and sorting C. A data structure that consists of nodes linked together D. A data structure that is used for sorting and searching,C
+1,Data Structures,DEMO,A. A data structure that stores elements in an array B. A data structure that allows for efficient searching and sorting C. A data structure that consists of nodes linked together D. A data structure that follows the last-in first-out (LIFO) principle,D
+1,Data Structures,DEMO,A. A data structure that stores elements in an array B. A data structure that allows for efficient searching and sorting C. A data structure that consists of nodes linked together D. A data structure that follows the first-in first-out (FIFO) principle,D
+1,Analysis of Algorithms,DEMO,A. O(n) B. O(nlogn) C. O(logn) D. O(n^2),C
+1,Analysis of Algorithms,DEMO,A. O(n) B. O(nlogn) C. O(logn) D. O(n^2),D
+1,Analysis of Algorithms,DEMO,A. O(n) B. O(nlogn) C. O(logn) D. O(n^2),B
+1,Software Requirements Engineering,DEMO,A. The process of developing a detailed description of the system to be developed B. The process of identifying stakeholders and their needs C. The process of validating that a system meets its requirements D. The process of managing changes to a system's requirements,B
+1,Software Requirements Engineering,DEMO,A. A requirement that specifies how a system should behave in response to specific inputs or events B. A requirement that specifies the overall characteristics of a system such as performance or security C. A requirement that specifies how a system should be designed or implemented D. A requirement that specifies the structure of a system's data,B
+1,Software Requirements Engineering,DEMO,A. A requirement that specifies how a system should behave in response to specific inputs or events B. A requirement that specifies the overall characteristics of a system such as performance or security C. A requirement that specifies how a system should be designed or implemented D. A requirement that specifies the structure of a system's data,A
+1,Research Methodology,DEMO,A. A statement about the relationship between variables B. A statement about the direction of a relationship between variables C. A statement about the significance of a relationship between variables D. A statement about the strength of a relationship between variables,A
+1,Research Methodology,DEMO,A. A question that seeks to test a specific hypothesis B. A question that seeks to explore a topic or issue C. A question that seeks to identify the cause of a specific phenomenon D. A question that seeks to describe a specific phenomenon,B
+1,Research Methodology,DEMO,A. A subset of the population that is studied in order to make inferences about the population as a whole B. A subset of the data that is used to train a machine learning model C. A subset of the independent variables that are included in a regression model D. A subset of the dependent variables that are used to evaluate a model,A
+1,Big Data Analytics,DEMO,A. A programming language for big data analytics B. A distributed file system for big data storage C. A database management system for big data D. A data visualization tool for big data,A
+1,Big Data Analytics,DEMO,A. A programming model for processing large data sets with a parallel distributed algorithm B. A file format for storing big data C. A database management system for big data D. A data visualization tool for big data,A
+1,Big Data Analytics,DEMO,A. A distributed computing system for big data processing B. A distributed file system for big data storage C. A database management system for big data D. A data visualization tool for big data,A
+1,Artificial Intelligence,DEMO,A. A machine learning model that is trained on labeled data B. A machine learning model that is trained on unlabeled data C. A set of algorithms inspired by the structure and function of the human brain D. A set of algorithms that can reason about and solve problems in complex domains,C
+1,Artificial Intelligence,DEMO,A. A type of supervised learning where the training data includes both inputs and outputs B. A type of unsupervised learning where the training data consists of inputs only C. A type of learning where an agent interacts with an environment and receives rewards or punishments based on its actions D. A type of learning where an agent learns to generate new examples of a given type of data,C
+1,Artificial Intelligence,DEMO,A. A subfield of AI that focuses on developing algorithms that can reason about and solve problems in complex domains B. A subfield of AI that focuses on developing systems that can interact with humans in a natural way C. A subfield of AI that focuses on developing systems that can learn from and make predictions on data D. A subfield of AI that focuses on developing systems that can reason about uncertain or incomplete information,B
+1,Deep Learning,DEMO,A. A type of neural network that is trained using backpropagation B. A type of neural network that is used for unsupervised learning C. A type of neural network that is designed for image recognition and classification D. A type of neural network that is used for text analysis and natural language processing,C
+1,Deep Learning,DEMO,A. A technique where a model trained on one task is reused as a starting point for a model on a different task B. A technique where a model is trained to generate new examples of a given type of data C. A technique where a model is trained to predict the probability of an event D. A technique where a model is trained to identify patterns and structure in data,A
+1,Deep Learning,DEMO,A. A technique for optimizing the weights of a neural network by propagating error signals backwards through the network B. A technique for selecting the most relevant features in a dataset C. A technique for combining the predictions of multiple models D. A technique for evaluating the performance of a model on a dataset,A
+1,Digital Image Processing,DEMO,A. The process of reducing the amount of data in an image by removing redundant information B. The process of identifying the boundaries between different objects in an image C. The process of compressing an image to reduce its size D. The process of enhancing the contrast and brightness of an image,B
+1,Digital Image Processing,DEMO,A. The process of identifying the boundaries between different objects in an image B. The process of reducing the amount of data in an image by removing redundant information C. The process of compressing an image to reduce its size D. The process of enhancing the contrast and brightness of an image,A
+1,Digital Image Processing,DEMO,A. The process of aligning two or more images of the same scene taken from different perspectives B. The process of identifying the boundaries between different objects in an image C. The process of compressing an image to reduce its size D. The process of enhancing the contrast and brightness of an image,A

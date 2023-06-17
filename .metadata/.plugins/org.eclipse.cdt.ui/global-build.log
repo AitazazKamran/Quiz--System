@@ -1,0 +1,15 @@
+11:51:03 **** Build of configuration Debug for project Project ****
+make all 
+Building file: ../src/Project.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Project.d" -MT"src/Project.o" -o "src/Project.o" "../src/Project.cpp"
+Finished building: ../src/Project.cpp
+ 
+Building target: Project
+Invoking: Cross G++ Linker
+g++  -o "Project" ./src/Project.o   
+Finished building target: Project
+ 
+11:51:23 **** Incremental Build of configuration Debug for project Project ****
+make all 
+make: Nothing to be done for 'all'.
